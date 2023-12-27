@@ -1,13 +1,15 @@
 {
-"sitaramsingh":{
-"maniksingh":{"sundarnarayan":{"dhiraj":{},"ajay":{},"vijay":{}}, "rupraosingh":{"bajarang":{},"preeti":{},"prince":{},"babli":{}},"ramnarayan":{},"gumpha":{}},
-"motisingh":{"natthusingh":{},"kashibai":{}},
-"gulabsingh":{"vishwanath":{"tara":{},"meera":{},"devidas":{}},"umrao":{}},
+"sitaramsingh":{"spouse":"","children":{
+"maniksingh":{"spouse":["kala","sita"],"children":{"sundarnarayan":{"dhiraj":{},"ajay":{},"vijay":{}}, "rupraosingh":{"bajarang":{},"preeti":{},"prince":{},"babli":{}},"ramnarayan":{},"gumpha":{}}},
+"motisingh":{"spouse":"","children":{"natthusingh":{},"kashibai":{}}},
+"gulabsingh":{"spouse":"","children":{"vishwanath":{"tara":{},"meera":{},"devidas":{}},"umrao":{}}},
 "annasingh":{
+  "spouse":"mankarnabai",
+  "children":{
 "dinkarsingh":{"shrikant":{}, "prashant":{},"pravin":{}},
 "prabhadevi":{"kalpana":{},"mahendra":{},"varsha":{},"ravi":{},"babli":{}},
 "bhagyavati":{"ashok":{}},
 "ramesh":{"amol":{},"atul":{}}
-}
+}}}
 }
 }
